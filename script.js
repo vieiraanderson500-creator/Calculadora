@@ -29,7 +29,7 @@ for (var i = 0; i < numero.length; i++) {
 
   });
 }
-
+// javascript
 // adiconando evento de clique nos botões das contas
 for (var i = 0; i < conta.length; i++) {
   conta[i].addEventListener("click", function(e) {
